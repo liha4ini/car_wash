@@ -1,0 +1,27 @@
+.container {
+    /*width: 1280px;*/
+    width: 100%;
+    margin: 0 auto;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000000;
+    position: relative;
+}
+
+.mapWrapper {
+    width: 80%;
+    height: 80%;
+}
+
+.cardBlock {
+    color: #7d7a7a;
+    background: #ffffff;
+    border: 2px solid #9d9c9c;
+    width: 20%;
+    height: 60%;
+    position: absolute;
+    top: 20%;
+    right: 15%;
+}

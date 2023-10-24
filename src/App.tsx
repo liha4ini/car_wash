@@ -1,7 +1,9 @@
-import './App.css'
 import {MainBlock} from "./components/MainBlock/MainBlock";
 import {BackgroundChanger} from "./components/BackgroundChanger/BackgroundChanger";
 import {Header} from "./components/Header/Header";
+import {YandexMaps} from "./components/YandexMaps/YandexMaps";
+
+import './App.css'
 
 
 function App() {
@@ -14,6 +16,7 @@ function App() {
                     <MainBlock />
                 </div>
             </BackgroundChanger>
+            <YandexMaps />
         </div>
     )
 }
