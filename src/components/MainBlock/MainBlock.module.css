@@ -1,0 +1,46 @@
+.mainBlock {
+    color: #e5dfdf;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    order: 10000;
+}
+
+.subText {
+
+}
+
+.mainText {
+    font-size: 60px;
+    margin-top: 10px;
+}
+
+.orderBlock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.orderText {
+
+}
+
+.orderBtn {
+    padding: 15px 20px;
+    margin-right: 40px;
+    background: #d32727;
+    color: #dfd2d2;
+    font-size: 17px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-top: 20px;
+}
+
+.orderBtn:hover {
+    transform: scale(1.1);
+    background: #ed2a2a;
+}

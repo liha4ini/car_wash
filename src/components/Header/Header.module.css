@@ -1,0 +1,50 @@
+.header {
+    width: 100%;
+    background: transparent;
+    padding: 15px 0;
+    position: fixed;
+    z-index: 2;
+    /*border: 1px solid white;*/
+}
+
+.container {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.headerContent {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.logo {
+    width: 150px;
+    cursor: pointer;
+}
+
+.headerRightBlock {
+    display: flex;
+    align-items: center;
+}
+
+.btn {
+    padding: 15px 20px;
+    margin-right: 40px;
+    background: #d32727;
+    color: #dfd2d2;
+    font-size: 17px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.btn:hover {
+    transform: scale(1.1);
+    background: #ed2a2a;
+}
+
+.phoneNumber {
+    color: #dfd2d2;
+    font-size: 20px;
+}
