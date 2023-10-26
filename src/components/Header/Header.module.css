@@ -37,6 +37,7 @@
     border-radius: 10px;
     cursor: pointer;
     transition: all 0.3s ease;
+    border: none;
 }
 
 .btn:hover {
@@ -47,4 +48,5 @@
 .phoneNumber {
     color: #dfd2d2;
     font-size: 20px;
+    font-weight: bold;
 }

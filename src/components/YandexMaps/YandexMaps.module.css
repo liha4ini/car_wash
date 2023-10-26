@@ -16,7 +16,7 @@
 }
 
 .cardBlock {
-    color: #7d7a7a;
+    color: #4a4949;
     background: #ffffff;
     border: 2px solid #9d9c9c;
     width: 20%;
@@ -24,4 +24,24 @@
     position: absolute;
     top: 20%;
     right: 15%;
+    padding: 30px 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.contactsBlock {
+    /*margin-top: 35px;*/
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 17px;
+}
+
+.info {
+    font-size: 18px;
+    margin-top: 5px;
+    color: black;
 }

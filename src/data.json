@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Антидождь",
+        "imageUrl": "https://avatars.mds.yandex.net/i?id=2fa7dda5a09db9e5a1c17fe3f85bd53cdff5562e-9863357-images-thumbs&n=13"
+    },
+    {
+        "id": 2,
+        "title": "Полировка автомобиля",
+        "imageUrl": "https://avatars.mds.yandex.net/i?id=d50a7d6c26e31d1d06467f7ac9879d9379f964f9-10878933-images-thumbs&n=13"
+    },
+    {
+        "id": 3,
+        "title": "Оклейка автомобиля",
+        "imageUrl": "https://avatars.mds.yandex.net/i?id=351a2f1cd0a3f7dfc13afcfa6c3b4841a4d91894-11003961-images-thumbs&n=13"
+    },
+    {
+        "id": 4,
+        "title": "Защитные покрытия",
+        "imageUrl": "https://avatars.mds.yandex.net/i?id=f691154c74c721a75ffd40b25a8398e5f6993212-9226182-images-thumbs&n=13"
+    },
+    {
+        "id": 5,
+        "title": "Химчистка салона",
+        "imageUrl": "https://avatars.mds.yandex.net/i?id=1f41935fa369ca551105017bf4e079dea26973e7-10917150-images-thumbs&n=13"
+    },
+    {
+        "id": 6,
+        "title": "Тонировка автомобиля",
+        "imageUrl": "https://avatars.mds.yandex.net/i?id=e57ee8b476d9c5b6cf30486f9da44a7fa6e2f414-10384982-images-thumbs&n=13"
+    },
+    {
+        "id": 7,
+        "title": "Бронирование лобового стекла",
+        "imageUrl": "https://avatars.mds.yandex.net/i?id=0018c699c519ab77ee53597aa5af728f07289589-9211751-images-thumbs&n=13"
+    },
+    {
+        "id": 8,
+        "title": "Комплексная уборка салона авто",
+        "imageUrl": "https://avatars.mds.yandex.net/i?id=3f99d69f66a8eaf48771360d09f64817db257a4a-10638478-images-thumbs&n=13"
+    }
+]

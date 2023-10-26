@@ -15,7 +15,7 @@
 
 .mainText {
     font-size: 60px;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .orderBlock {
@@ -37,7 +37,8 @@
     border-radius: 10px;
     cursor: pointer;
     transition: all 0.3s ease;
-    margin-top: 20px;
+    margin-top: 30px;
+    border: none;
 }
 
 .orderBtn:hover {
